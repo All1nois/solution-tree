@@ -1,4 +1,6 @@
 # Выбор оптимального решения с помощью дерева решений
+Дерево принятия решений — средство поддержки принятия решений, использующееся в машинном обучении, анализе данных и статистике.
+
 ![image](https://github.com/user-attachments/assets/93bb3064-c7ec-4eeb-b67e-8a311fc107cf)
 ## Скачать приложение
 [solution-tree.zip](https://github.com/user-attachments/files/18530000/solution-tree.zip)
